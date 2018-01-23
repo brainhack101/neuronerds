@@ -12,8 +12,8 @@ Useful links for NeuroNerds looking to learn coding.
 ## Challenges and Tools
 
 **Code Versioning and Sharing**
-- [Git/Github](https://github.com/)
-- [Github Guides](https://guides.github.com/)
+- [GitHub](https://github.com/)
+- [GitHub Guides](https://guides.github.com/)
 
 **Code Execution and Portability**
 - [Docker](https://www.docker.com/)
