@@ -67,3 +67,7 @@ Useful links for NeuroNerds looking to learn coding.
 **Demo:**
 - [Science In The Cloud](http://scienceinthe.cloud/)
 - [Scipy Lectures](http://www.scipy-lectures.org/)
+
+
+## Misc Other
+- [HomeBrew](https://brew.sh/) (Installs a bunch of cool packages for Mac)
