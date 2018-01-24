@@ -33,7 +33,7 @@ Useful links for NeuroNerds looking to learn coding.
 | Large User Community | :heavy_check_mark: | :heavy_check_mark: |
 | Lots of Available Libraries | :heavy_check_mark: | :heavy_check_mark: :heavy_check_mark: |
 | Open Source | :heavy_multiplication_x: | :heavy_check_mark: |
-| Out-of-the-box | :heavy_check_mark: | :heavy_multiplication_x: |
+| Works out-of-the-box | :heavy_check_mark: :heavy_check_mark: | :heavy_multiplication_x: |
 
 ### MATLAB
 
