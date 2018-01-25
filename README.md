@@ -62,7 +62,7 @@ Useful links for NeuroNerds looking to learn coding.
 - [Diffusion in Python (Dipy)](http://nipy.org/dipy/)
 - [NeuroData MRI to Graphs Pipeline (ndmg)](http://m2g.io/)
 - [Nilearn](http://nilearn.github.io/)
-- [Plotly](https://plot.ly/python/)
+- [Plotly](https://plot.ly/python/), [Plotly Offline (free)](https://plot.ly/python/offline/)
 - [Scipy](https://www.scipy.org/), [Numpy](http://www.numpy.org/), [Scikit-learn](http://scikit-learn.org/stable/), [Scikit-image](http://scikit-image.org/)
 
 **Demo:**
